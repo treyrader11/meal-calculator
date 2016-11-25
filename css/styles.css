@@ -1,0 +1,23 @@
+#table,
+#bill-container {
+	background: #eee;
+	border-radius: 15px;
+	border: solid 1px #EEE;
+	width: 60%;
+	margin: 0 auto;
+	text-align: center;
+	height: 40vh;
+	margin-top: 40px;
+}
+
+.btn:hover {
+	cursor: pointer;
+}
+
+#diners {
+	list-style-type: none;
+}
+
+#bill {
+	color: red;
+}
